@@ -1,5 +1,7 @@
 ## Overview
-
+\
+NOTE: Please create a directory 'datasets' with the three datasets: website, facebook and google 
+\
 This project aims to merge data from multiple sources, resolve conflicts between similar data entries, and save the final cleaned data into an Excel file. The main sources of data are:
 - Website data
 - Facebook data
